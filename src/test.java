@@ -7,6 +7,6 @@ public class test {
 		System.out.println(c.getLaStation(0));
 		System.out.println(c.chercher("2017"));
 		
-		FRMStations Fenetre = new FRMStations();
+		FrmStations test = new FrmStations();
 	}
 }
